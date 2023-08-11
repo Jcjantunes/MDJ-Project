@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea1ee9c775c1a1c49bc127f900f29335
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - powerUpVar: {instanceID: 0}
+  - targetVar: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - newSprite: {instanceID: 0}
+  - originalSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

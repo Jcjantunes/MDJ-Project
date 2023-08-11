@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - UFO
+  - Cow
+  - UFOBeamCollider
+  - BullyBeamCollider
+  - Bully
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Animal
+  - Water
+  - UI
+  - ufo
+  - farmer
+  - hay
+  - collider
+  - lightning
+  - bully
+  - dead_ufo
+  - lava
+  - no_collision
+  - animal_food
+  - fed_animal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 730857195
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: CowLayer
+    uniqueID: 3232321995
+    locked: 0

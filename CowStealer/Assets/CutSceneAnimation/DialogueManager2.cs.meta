@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64f8a5ae9876ee74a93821e8c0700bae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogueText: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - alienSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c5ce8bbc162a3c6499a4b92d163e4e43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - cowSound: {fileID: 8300000, guid: d2cd3a77a0e899f49b08e06f98a8b6a0, type: 3}
+  - abductSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
